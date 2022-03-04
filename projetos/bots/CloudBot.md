@@ -35,4 +35,9 @@
       c!uptime (Mostra o tempo ativo)
       
 # Ajude!
-   Para ajudar entre em contato comigo no meu [**Twitter!**](https://twitter.com/pcvaranda) Vou avaliar sua sugestão e informarei a minha opinião final.
+   Para ajudar entre em contato comigo no meu [**Twitter!**](https://twitter.com/pedrocvaranda) Vou avaliar sua sugestão e informarei a minha opinião final.
+  
+# OBS:
+   Pedro Varanda foi banido temporariamente do Twitter - O Editor
+   Pedro Varanda criará comandos para servidores expecíficos ao longo do tempo - O Editor
+
